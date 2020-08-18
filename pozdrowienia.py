@@ -1,0 +1,1 @@
+print "pozdrowienia dla Krakowa :) " 
